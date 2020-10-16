@@ -1,0 +1,238 @@
+
+  /*font-family: 'Ubuntu', sans-serif;*/
+  /*font-family: 'Lato', sans-serif;*/
+  /* blue:#7287ae*/
+   *{
+    margin: 0;
+    padding: 0;
+  }
+
+  body{
+  	font-family: 'Lato', sans-serif;
+  	color: #010101;
+  }
+  /*header start*/
+  header{
+  background-color:#7287ae; 
+  padding: 15px 0;
+  }
+
+
+   /*menu strat*/
+  .menu ul li a{
+  	font-weight: 700;
+  	font-size: 22px;
+  	color: #fff !important;
+  	padding: 0 20px !important;
+  	transition: .3s;
+
+  }
+  
+  *.menu ul li a:hover{
+  	color: #101010 !important;
+  }
+  /*menu end*/
+  /*header end*/
+  /*banner start*/
+  .banner{
+    background-color:#7287ae; 
+    padding-top: 70px;
+    padding-bottom: 100px;
+  }
+
+  .b_h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .b_p{
+    color: #fff;
+    text-align: center;
+  }
+
+  /*banner end*/
+  /*popular menu start*/
+  .food_menu{
+    /*display: block;*/
+    background-color: #e3ecc2;
+    padding-top: 40px;
+    padding-bottom:100px;
+  }
+  .menu_tittle{}
+  .menu_h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 32px !important;
+    font-weight: 700;
+    color: #7287ae;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .m-food{
+    /*padding: 0 10px;*/
+  }
+  .menu_img{}
+  .content-food{
+    display: inline-block;
+    background-color: #fff;
+    padding-left: 10px;
+  }
+  
+  .food_h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    color: #504f4f;
+  }
+  .food_p{
+    display: inline-block;
+    font-size: 16px;
+    color: #504f4f;
+  }
+  .food_h4{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    color: #504f4f;
+  }
+
+  .btn-more button {
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #7287ae;
+    border: none;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 40px;
+    cursor: pointer;
+}
+  
+  /*popular menu end*/
+  /*discount food start*/
+  .dis-food{
+  }
+  .d-img{
+    /*height: 200px !important;*/
+    padding-left: 0;
+  }
+.dis-content{}
+.d-h2{
+  display: inline-block;
+  font-family: 'Ubuntu', sans-serif;
+ font-size: 32px !important;
+ font-weight: 700; 
+ margin-top: 200px;
+}
+
+.d-p{
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #333333;
+}
+
+.btn-more2 button {
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #7287ae;
+    border: none;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+/*buy 1 start*/
+.buy-two{
+  overflow: hidden;
+}
+
+.janu-buy{
+
+}
+
+.j-h2{
+  display: inline-block;
+  font-family: 'Ubuntu', sans-serif;
+ font-size: 34px !important;
+ font-weight: 700; 
+  margin-top: 100px;
+}
+
+.j-p{
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #333333;
+}
+
+.btn-more3 button{
+  width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #7287ae;
+    border: none;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 50px;
+
+}
+/*order menu*/
+.order_menu{
+  background-color: #7287ae;
+padding-top: 40px;
+padding-bottom:100px;
+}
+.order_tittle{}
+.order_h2{
+  font-family: 'Ubuntu', sans-serif;
+    font-size: 32px !important;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+span{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 1px;
+  background-color: white;
+  color:#7287ae;
+  padding:20px;
+  margin-left: 20px;
+  margin-bottom: 40px;
+}
+.order-food{
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+.order_h2{
+  font-family: 'Ubuntu', sans-serif;
+    font-size: 32px !important;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.order_p{
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+  text-align: center;
+}
